@@ -1,0 +1,23 @@
+{
+  "name": "elegant-storage",
+  "version": "1.0.5",
+  "description": "Supports the use of indexeddb to store data, support setting expiration time, manual failure, cache data grouping",
+  "keywords":[
+    "indexedDB",
+    "expiration",
+    "cache",
+    "cache group"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack lib/index.js"
+  },
+  "author": "walker-lee",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "localforage": "^1.7.3"
+  },
+  "devDependencies": {}
+}
