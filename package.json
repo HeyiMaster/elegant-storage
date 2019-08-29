@@ -1,6 +1,6 @@
 {
   "name": "elegant-storage",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "Supports the use of indexeddb to store data, support setting expiration time, manual failure, cache data grouping",
   "keywords":[
     "indexedDB",
